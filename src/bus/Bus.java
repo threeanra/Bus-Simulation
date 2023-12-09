@@ -52,9 +52,9 @@ public class Bus {
     }
 
     void display() {
-        System.out.println("Nama Bus : " + this.namaBus);
-        System.out.println("Kapasitas Bus : " + this.kapasitas);
-        System.out.println("Jumlah Penumpang : " + this.penumpang);
-        System.out.println("Sisa tempat duduk : " + this.sisaTempatDuduk);
+        System.out.println("\nNama Bus                          : " + this.namaBus);
+        System.out.println("Kapasitas Bus                     : " + this.kapasitas);
+        System.out.println("Jumlah Penumpang                  : " + this.penumpang);
+        System.out.println("Sisa tempat duduk                 : " + this.sisaTempatDuduk);
     }
 }
