@@ -30,7 +30,7 @@ public class Main {
                     continue;
                 }
 
-                // Set Penumpang
+                // Set Penumpang (dengan metode setter enkapsulasi
                 System.out.print("Berapa Tiket yang ingin dibeli    : ");
                 int pnp = input.nextInt();
                 bus.setPenumpang(pnp);

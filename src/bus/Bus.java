@@ -27,6 +27,7 @@ public class Bus {
         return this.namaBus;
     }
 
+    //Setter & Getter (Metode Enkapsulasi)
     void setPenumpang(int penumpang) {
         this.penumpang = penumpang;
     }
